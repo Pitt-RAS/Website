@@ -1,7 +1,7 @@
 title:            Robotics and Automation Society @ University of Pittsburgh
 description:      We are robotic enthusiats. Everyone is welcome.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://pittrobot.github.io
 disqus_shortname:
 
 # Owner/author information
@@ -45,7 +45,7 @@ links:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # In _config.yml
-production: false
+production: true
 timezone:    America/New_York
 future:      true
 highlighter: pygments

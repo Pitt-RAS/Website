@@ -29,3 +29,4 @@ If the setup is correct, you should see similar output in command line:
     Server address: http://0.0.0.0:4000/
     Server running... press ctrl-c to stop.
 
+Consult this page for Jekyll env task, [link](http://metaskills.net/2013/09/02/jekyll-tips-and-tricks/).
