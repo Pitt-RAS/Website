@@ -11,9 +11,9 @@ owner:
   bio:            "Technology.equals(Power)"
   email:          robotics.pitt@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter: PittRAS
   facebook:
-  github: https://github.com/PittRobot
+  github: PittRobot
   stackoverflow:
   linkedin:
   instagram:
@@ -39,10 +39,6 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-    external: true
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # In _config.yml
 production: true
@@ -69,4 +65,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: [ "archive_example","lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
