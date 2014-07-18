@@ -5,7 +5,7 @@ require "stringex"
 ## -- Config -- ##
 
 posts_dir       = "_posts"    # directory for blog files
-bio_dir         = "_bios"
+bio_dir         = "bios"
 new_post_ext    = "md"  # default new post file extension when using the new_post task
 new_page_ext    = "md"  # default new page file extension when using the new_page task
 
