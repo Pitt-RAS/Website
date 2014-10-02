@@ -1,7 +1,7 @@
 title:            Robotics and Automation Society @ University of Pittsburgh
 description:      We are robotic enthusiats. Everyone is welcome.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:	www.pitt.edu/~sorc/robotics
+url:	http://www.pitt.edu/~sorc/robotics
 disqus_shortname:
 
 # Owner/author information
@@ -70,8 +70,8 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 gallerytag:
-    dir: /images/gallery/
-    url: /images/gallery
+    dir: images/gallery/
+    url: www.pitt.edu/~sorc/robotics/images/gallery
     thumb_width: 150
     thumb_height: 150
     columns: 4

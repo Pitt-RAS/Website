@@ -70,8 +70,8 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 gallerytag:
-    dir: /images/gallery/
-    url: /images/gallery
+    dir: images/gallery/
+    url: http://www.pitt.edu/~sorc/robotics/images/gallery
     thumb_width: 150
     thumb_height: 150
     columns: 4
