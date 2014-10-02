@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>www.pitt.edu/~sorc/robotics</loc>
     </url>
     
     
     <url>
-        <loc>/404.html</loc>
+        <loc>www.pitt.edu/~sorc/robotics/404.html</loc>
     </url>
     
     <url>
-        <loc>/bios/BrandonContino.html</loc>
+        <loc>www.pitt.edu/~sorc/robotics/bios/BrandonContino.html</loc>
     </url>
     
     <url>
-        <loc>/bios/CharlesKiorpes.html</loc>
+        <loc>www.pitt.edu/~sorc/robotics/bios/CharlesKiorpes.html</loc>
     </url>
     
     <url>
-        <loc>/about/</loc>
+        <loc>www.pitt.edu/~sorc/robotics/about/</loc>
     </url>
     
     <url>
-        <loc>/bios/</loc>
+        <loc>www.pitt.edu/~sorc/robotics/bios/</loc>
     </url>
     
     <url>
-        <loc>/faq/</loc>
+        <loc>www.pitt.edu/~sorc/robotics/faq/</loc>
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
+        <loc>www.pitt.edu/~sorc/robotics/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/index.html</loc>
+        <loc>www.pitt.edu/~sorc/robotics/index.html</loc>
     </url>
     
     <url>
-        <loc>/posts/</loc>
+        <loc>www.pitt.edu/~sorc/robotics/posts/</loc>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>www.pitt.edu/~sorc/robotics/sitemap.xml</loc>
     </url>
     
 
     
     <url>
-        <loc>/gallerysample/</loc>
+        <loc>www.pitt.edu/~sorc/robotics/gallerysample/</loc>
     </url>
     
     <url>
-        <loc>/announcement/meetingtimesurvey/</loc>
+        <loc>www.pitt.edu/~sorc/robotics/announcement/meetingtimesurvey/</loc>
     </url>
     
     <url>
-        <loc>/intro/</loc>
+        <loc>www.pitt.edu/~sorc/robotics/intro/</loc>
     </url>
     
 </urlset>
