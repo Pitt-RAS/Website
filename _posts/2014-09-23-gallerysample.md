@@ -12,5 +12,5 @@ comments:
 share: 
 ---
 {% gallery galleryname %}
-IMAG0853.jpg:: A caption!
+meeting-2014-09/IMAG0853.jpg:: A caption!
 {% endgallery %}

@@ -1,7 +1,7 @@
 <p>
 <span><h2>Sponsors</h2><br>
-<image src={{site.url}}"/images/solidwork.png" height="200" width="300">
-<image src={{site.url}}"/images/Aerotech.jpg" height="200" width="300">
+<image src={{site.url}}"images/solidwork.png" height="200" width="300">
+<image src={{site.url}}"images/Aerotech.jpg" height="200" width="300">
 </span>
 </p>
 <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
