@@ -10,9 +10,13 @@ comments: true
 
 ##Brandon Contino
 
-I am a sophomore pursuing an Electrical Engineering degree at the Sawnson School of Engineering. Relatively new to 
-the world of robotics and I am primarily interested in aerial robots, but finds all robots intriguing.
- 
-When I am younger, I used to dress up as a Broncos player and sing the Brocons fight song (I am originally from Colorado)
- 
+
+Hello! I am a sophomore pursuing an Electrical Engineering degree
+at the Swanson School of Engineering. As a disclaimer, I am relatively new
+to the world of robotics, and therefore do not have a vast knowledge about
+them; however, I do find all robots intriguing, especially aerial ones.
+Just as a little thing to keep between us, when I was younger I used to
+dress up as a Broncos player and sing the Broncos fight song (I am
+originally from Colorado).
+
 Codename "The Dullahan" 
