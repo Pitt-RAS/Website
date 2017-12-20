@@ -1,4 +1,8 @@
-#Overview
+# EDIT 12-20-17
+
+This website was the 2014-2015 Pitt RAS Website. But it can't be built anymore (at least not easily). A "development" version that can be built can be found [here](https://github.com/Pitt-RAS/PittRobot.github.io) but the content is old.
+
+# Overview
 This website is for Robotics and Automation Society at University of Pittsburgh. Developed by Zhijie Wang in 2014. The website is a static HTML using Jekyll as compiling tool, Hanlebar and CSS for templating. The theme is originally forked from Jekyll theme "Minimal Mistake".
 
 ## Development Setup Instruction
